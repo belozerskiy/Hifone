@@ -13,7 +13,7 @@
   @endif
 
   @if ($user->nickname)
-    <dt><label>Nickname:</label></dt><dd><span>{!! $user->nickname !!}</span></dd>
+    <dt><label>Ник:</label></dt><dd><span>{!! $user->nickname !!}</span></dd>
   @endif
 
   @if ($user->realname)
