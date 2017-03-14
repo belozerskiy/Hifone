@@ -2,9 +2,9 @@
 
 [![StyleCI](https://styleci.io/repos/60775510/shield)](https://styleci.io/repos/60775510/)
 [![Build Status](https://img.shields.io/travis/Hifone/Hifone/master.svg?style=flat-square)](https://travis-ci.org/Hifone/Hifone)
-[![Software License](https://pp.userapi.com/c639421/v639421104/13ceb/aUua6bKpfPA.jpg](LICENSE)
+[![Software License](](LICENSE)
 
-![Screenshot](http://hifone.com/images/screenshot.png)
+![Screenshot](https://pp.userapi.com/c639421/v639421104/13ceb/aUua6bKpfPA.jpg)
 
 Hifone is a free, open-source, self-hosted forum software based on the Laravel PHP Framework.
 
