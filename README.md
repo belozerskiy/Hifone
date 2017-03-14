@@ -2,7 +2,7 @@
 
 [![StyleCI](https://styleci.io/repos/60775510/shield)](https://styleci.io/repos/60775510/)
 [![Build Status](https://img.shields.io/travis/Hifone/Hifone/master.svg?style=flat-square)](https://travis-ci.org/Hifone/Hifone)
-[![Software License](](LICENSE)
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 
 ![Screenshot](https://pp.userapi.com/c639421/v639421104/13ceb/aUua6bKpfPA.jpg)
 
