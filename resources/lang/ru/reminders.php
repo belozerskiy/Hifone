@@ -22,12 +22,12 @@ return [
     |
     */
 
-    'password' => 'Passwords must be at least six characters and match the confirmation.',
+    'password' => 'Пароль должен содержать не менее 6 символов и должен сопадать с подтверждением.',
 
-    'user' => "We can't find a user with that e-mail address.",
+    'user' => "Мы не можем найти пользователя с указанным email адресом.",
 
-    'token' => 'This password reset token is invalid.',
+    'token' => 'Для изменения пороля указанный токен является недействитеольным.',
 
-    'sent' => 'Password reminder sent!',
+    'sent' => 'Напоминане пароля было выслано вам на почту.',
 
 ];

@@ -226,32 +226,32 @@ return [
 // Pms
     'pms'   => [
         'pms'             => 'Pm',
-        'create'          => 'Create new Message',
-        'list'            => 'Message List',
-        'home'            => 'Private Messages - Overview',
-        'readed'          => 'Readed',
-        'unreaded'        => 'New Message',
-        'send'            => 'Send Message',
-        'pick_user'       => 'Choose Recipient',
-        'recipient'       => 'Recipient',
-        'recipient_error' => 'Recipient not exists.',
+        'create'          => 'Создать новое сообщение',
+        'list'            => 'Список сообщений',
+        'home'            => 'Приватные сообщения - Обзор',
+        'readed'          => 'Прочитано',
+        'unreaded'        => 'Новое Сообщение',
+        'send'            => 'Послать Сообщение',
+        'pick_user'       => 'Выбрать получателя',
+        'recipient'       => 'Получатель',
+        'recipient_error' => 'Получателя не существует.',
         'new_pm'          => 'New PM',
-        'view_inbox'      => 'View my Inbox',
+        'view_inbox'      => 'Мои Входящие',
         'nav_create'      => 'Send PM',
-        'nav_inbox'       => 'View Inbox',
-        'nav_outbox'      => 'View Outbox',
-        'same_user_error' => 'Recipient ID and sender ID have the same value.',
+        'nav_inbox'       => 'Входящие',
+        'nav_outbox'      => 'Исходящие',
+        'same_user_error' => 'Получатель и отправитель это одно и тоже лицо.',
     ],
 
 // Credits
     'credits' => [
-        'credits'         => 'Credits',
-        'mine'            => 'My credits',
-        'time'            => 'Time',
-        'type'            => 'Type',
-        'reward'          => 'Reward',
-        'balance'         => 'Balance',
-        'balance_current' => 'Current balance',
+        'credits'         => 'Кредиты',
+        'mine'            => 'Мои кредиты',
+        'time'            => 'Время',
+        'type'            => 'Тип',
+        'reward'          => 'Награда',
+        'balance'         => 'Баланс',
+        'balance_current' => 'Текущий баланс',
     ],
 
 // Tips
@@ -294,12 +294,12 @@ return [
         'login_with_oauth'     => 'Войти через соцсети',
         //OAuth Strings
         'oauth' => [
-            'unbound'         => 'Disconnect from :provider',
-            'unbound_success' => 'Disconnect successful.',
-            'bound'           => 'Connect to :provider',
+            'unbound'         => 'Отключиться от :provider',
+            'unbound_success' => 'Успешное отключение.',
+            'bound'           => 'Присоеденится к :provider',
             //OAuth Messages for Login
             'login' => [
-                'note' => 'After successful login, your :provider Account for :name is connected with your Hifone Account.',
+                'note' => 'После успешного входа, ваш :provider аккаунт с именем :name присоедениться к вашему Hofine аккаунту.',
             ],
             //OAuth Landing Page
             'landing' => [
